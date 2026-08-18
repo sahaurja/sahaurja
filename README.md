@@ -15,5 +15,8 @@ https://github.com/sahaurja/Helio
 2. Mushroom Classifier: Taxonomy of Mushrooms using CV
  https://github.com/sahaurja/Mushroom_Identification
 
-5. Leaf-Blight Detector: As part of Cornell Engineers Without Border project team, developing 2-Step Pipeline to detect    Natural Leaf Blight in maize
-https://github.com/23spakkerakari/DigAgML
+5. Roomly : Generate decorated room with objects, mapped to items to put in cart and checkout, from the Shopify API. Made for NYC Hackathon 2026.
+Demo video: https://lnkd.in/gE2NNfPT
+https://github.com/nothier7/shopify-hackathon
+
+
