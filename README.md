@@ -20,4 +20,7 @@ https://github.com/sahaurja/Helio
 Demo video: https://lnkd.in/gE2NNfPT  
 https://github.com/nothier7/shopify-hackathon
 
+6. As Software Lead of TEDx Cornell, I am working on revamping the website. 
+Take a look! https://tedxcornell.com/
+
 
