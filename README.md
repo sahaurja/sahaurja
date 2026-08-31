@@ -6,10 +6,11 @@ Feel free to reach out to me at us64@cornell.edu.
 
 Some recent projects: 
 
-1. Helio : full-stack personalized language learning platform. 
+1. Helio : full-stack personalized language learning platform.
+https://helio-fe-seven.vercel.app/  
 https://github.com/sahaurja/Helio
 
-2. SEC 10-K Graph: Apple's Latest SEC 10-K converted from flat document to Graph storage. 
+3. SEC 10-K Graph: Apple's Latest SEC 10-K converted from flat document to Graph storage. 
   https://github.com/sahaurja/TenK_Graph
 
 2. Mushroom Classifier: Taxonomy of Mushrooms using CV. 
