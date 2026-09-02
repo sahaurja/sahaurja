@@ -23,4 +23,6 @@ https://github.com/nothier7/shopify-hackathon
 6. As Software Lead of TEDx Cornell, I am working on revamping the website. 
 Take a look! https://tedxcornell.com/
 
-
+7. Cadence: Automatically pause any YouTube Tutorial based on language and visual queues, and upon request, pair pause-points with guiding questions
+https://github.com/sahaurja/Auto-Pauser-Model
+(in-progress :) )
