@@ -10,7 +10,7 @@ Some recent projects:
 https://helio-fe-seven.vercel.app/  
 https://github.com/sahaurja/Helio
 
-3. SEC 10-K Graph: Apple's Latest SEC 10-K converted from flat document to Graph storage. 
+3. FinGraph: Apple's Latest SEC 10-K converted from flat document to Graph storage. 
   https://github.com/sahaurja/TenK_Graph
 
 2. Mushroom Classifier: Taxonomy of Mushrooms using CV. 
