@@ -26,3 +26,6 @@ Take a look! https://tedxcornell.com/
 7. Cadence: Automatically pause any YouTube Tutorial based on language and visual queues, and upon request, pair pause-points with guiding questions
 https://github.com/sahaurja/Auto-Pauser-Model
 (in-progress :) )
+
+8. WayMax: Management tool for Alzheimer's patients, their caregivers, and their circle. From BigRedHacks '26
+https://github.com/smriti-kumar/waymax
